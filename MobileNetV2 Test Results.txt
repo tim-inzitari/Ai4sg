@@ -1,0 +1,15 @@
+MobileNetV2 Test Results
+
+total: 130
+total correct: 112
+average: 0.8615384615384616
+
+
+
+
+Resnet 50 Test Results
+
+
+total: 130
+total correct: 88
+average: 0.676923076923077
