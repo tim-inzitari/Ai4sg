@@ -8,6 +8,6 @@ average: 0.9076923076923077
 
 InceptionV3
 
-Total: 130
-Total correct: 117
-average: 0.9
+total: 130
+total correct: 119
+average: 0.9153846153846154
